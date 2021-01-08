@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://{interior-consultant-homepage.netlify.app}">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://{github.com/seanphenomenon/Interior-Consultant}">
       Solution
     </a>
     <span> | </span>
@@ -34,14 +34,11 @@
 
 ## Overview
 
-![screenshot](https://imgur.com/a/hrJ0rr5)
+![screenshot](https://imgur.com/a/Ifqr01l)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+A simple interior consultant homepage created from figma design.
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- deployed on Netlify at: https://imgur.com/a/Ifqr01l
 
 ### Built With
 
@@ -57,8 +54,3 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb) was to build an application to complete the given user stories.
-
-## Contact
-
-- Website [your-website.com]()
-- GitHub [@your-username](https://www.github.com/seanphenomenon)
