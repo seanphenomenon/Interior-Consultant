@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{interior-consultant-homepage.netlify.app}">
+    <a href="https://interior-consultant-homepage.netlify.app">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{github.com/seanphenomenon/Interior-Consultant}">
+    <a href="https://github.com/seanphenomenon/Interior-Consultant">
       Solution
     </a>
     <span> | </span>
@@ -34,7 +34,7 @@
 
 ## Overview
 
-![Screenshot](screenshot.png)
+<img width="1426" alt="Screen Shot 2021-01-07 at 7 20 25 PM" src="https://user-images.githubusercontent.com/40783550/103971630-fae3c800-511f-11eb-9efa-4ed2f66fa325.png">
 
 A simple interior consultant homepage created from figma design.
 
