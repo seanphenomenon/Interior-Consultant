@@ -38,7 +38,7 @@
 
 A simple interior consultant homepage created from figma design.
 
-- deployed on Netlify at: https://imgur.com/a/Ifqr01l
+- deployed on Netlify at: https://interior-consultant-homepage.netlify.app/
 
 ### Built With
 
