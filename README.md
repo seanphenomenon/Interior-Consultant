@@ -34,7 +34,7 @@
 
 ## Overview
 
-![screenshot](https://imgur.com/a/Ifqr01l)
+![Screenshot](screenshot.png)
 
 A simple interior consultant homepage created from figma design.
 
